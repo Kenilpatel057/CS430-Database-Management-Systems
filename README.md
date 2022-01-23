@@ -1,2 +1,1 @@
-# CS240
-Programming in C. Learned to use the same data structures using C language
+Coursework for database management system. Learned about relational Algebra, SQL, PL/SQL functions, JDBC application, etc.
